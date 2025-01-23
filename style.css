@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Playwrite IN", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.card-title {
+    font-family: "Noto Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 27px;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.card-text {
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-size: 17px;
+    font-style: normal;
+}
