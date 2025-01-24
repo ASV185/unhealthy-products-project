@@ -38,3 +38,13 @@ p {
     font-size: 27px;
     font-style: normal;
 }
+
+footer {
+  font-family: "Noto Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 17px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100; 
+}
